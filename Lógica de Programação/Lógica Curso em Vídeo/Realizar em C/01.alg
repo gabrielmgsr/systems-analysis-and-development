@@ -8,7 +8,7 @@ var
 inicio
       escreva("Em que ano voce nasceu?")
       leia(nasc)
-      escreva("Em que ano nos estamos?")
+      escreva("Em que ano estamos?")
       leia(atual)
       idade <- atual - nasc
       escreval("Em ", atual, " voce tera ", idade," anos.")
